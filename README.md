@@ -11,7 +11,7 @@ O sistema tem o objetivo de organizar e gerenciar os veículos,
 motoristas, multas, manutenções e empréstimos de forma prática e
 eficiente. Ele deve facilitar a consulta de informações e a criação
 de relatórios sobre o uso da frota.
-Boas Práticas
+Boas Práticas:<br/>
 ● Organização dos Dados (Normalização): Estrutura as tabelas
 para que cada informação fique em um lugar específico e sem
 repetição desnecessária.<br/>
