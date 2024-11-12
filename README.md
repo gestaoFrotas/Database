@@ -15,7 +15,7 @@ de relatórios sobre o uso da frota.
 Boas Práticas
 ● Organização dos Dados (Normalização): Estrutura as tabelas
 para que cada informação fique em um lugar específico e sem
-repetição desnecessária.
+repetição desnecessária.\n
 ● Relações entre Tabelas: Usam
 chaves para ligar as informações de motoristas, veículos, multas, etc., garantindo que tudo esteja conectado.
 ● Índices para Pesquisa Rápida: Cria índices (marcadores) em campos frequentemente consultados, como o ID dos motoristas e veículos, para acelerar buscas no banco de dados.
